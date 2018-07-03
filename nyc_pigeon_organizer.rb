@@ -31,8 +31,6 @@ pigeon_data = {
     "City Hall" => ["Andrew"]
   }
 }
-```
-```
 Your output should look something like the hash below:
 
 ruby
