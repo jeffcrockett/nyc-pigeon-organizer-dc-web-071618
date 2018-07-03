@@ -9,7 +9,7 @@ def nyc_pigeon_organizer(data)
     end
   end
  end
- binding.pry
+
  
  data.each do |attribute, hash|
    hash.each do |key, value_array|
@@ -20,6 +20,7 @@ def nyc_pigeon_organizer(data)
      end
    end
  end
+  binding.pry
  organized_pigeons
 end
 
