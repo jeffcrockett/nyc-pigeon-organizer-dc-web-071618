@@ -10,5 +10,9 @@ def nyc_pigeon_organizer(data)
   end
  end
  binding.pry
+ 
+ data.each do |attribute, hash|
+  
+ end
 end
 
