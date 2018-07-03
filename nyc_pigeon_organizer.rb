@@ -12,6 +12,7 @@ def nyc_pigeon_organizer(data)
  binding.pry
  
  data.each do |attribute, hash|
+   hash.each do |key, value_array|
   
  end
 end
